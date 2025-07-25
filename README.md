@@ -3,7 +3,6 @@
 
 A full-stack web application designed to streamline and automate college bus management tasks. This system allows admin users to manage buses, routes, drivers, students, and bus pass generation with ease.
 
-![Bus Management Banner](https://img.freepik.com/free-vector/bus-station-illustration_1284-25914.jpg) <!-- Replace with actual image if available -->
 
 ---
 
