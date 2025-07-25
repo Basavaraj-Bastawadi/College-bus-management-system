@@ -54,12 +54,11 @@ A full-stack web application designed to streamline and automate college bus man
 
 ```bash
 git clone https://github.com/Basavaraj-Bastawadi/College-bus-management-system.git
+```
 Move to the XAMPP htdocs folder
-
-bash
-Copy
-Edit
+```bash
 cp -r College-bus-management-system/ /path-to-xampp/htdocs/
+```
 Import the Database
 
 Open phpMyAdmin (http://localhost/phpmyadmin)
